@@ -7,6 +7,6 @@ export default function Calculation() {
     const result = null;
 
     return (
-    <div>Calculation</div>
+        <div>Calculation</div>
     )
 }
